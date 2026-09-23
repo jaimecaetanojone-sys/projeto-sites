@@ -8,3 +8,5 @@ width: 500px;
 margin:auto;
 padding: 10px;
 box-shadow: 3px 3px 5px #54bfda;}
+
+img.lado {float: right; margin-right: 10px;}
